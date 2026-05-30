@@ -10,13 +10,13 @@ Works with any language, any framework, any project type.
 **macOS / Linux** — one line:
 
 ```bash
-git clone https://github.com/jasoncoawette/claude-context-framework.git && cd claude-context-framework && chmod +x create-agent-structure.sh && ./create-agent-structure.sh
+git clone https://github.com/jasoncoawette/claude-context-structure.git && cd claude-context-structure && chmod +x create-agent-structure.sh && ./create-agent-structure.sh
 ```
 
 **Windows (WSL)** — open an Ubuntu/WSL shell, then one line:
 
 ```bash
-wsl bash -c "git clone https://github.com/jasoncoawette/claude-context-framework.git && cd claude-context-framework && chmod +x create-agent-structure.sh && ./create-agent-structure.sh"
+wsl bash -c "git clone https://github.com/jasoncoawette/claude-context-structure.git && cd claude-context-framework && chmod +x create-agent-structure.sh && ./create-agent-structure.sh"
 ```
 
 > The script (`create-agent-structure.sh`) walks the `context/` tree and enforces the
@@ -64,6 +64,6 @@ MIT — fork it, ship it, build on it.
 
 ## Who built this
 
-[Your name]. I help businesses turn AI chaos into reliable workflows.
+Jason Coawette. I help businesses turn AI chaos into reliable systems.
 
-Want me to set this up on your codebase? → [cal.com/yourname](https://cal.com/yourname)
+Want me to set this up on your codebase? → [cal.com/jasoncoawette/ai-audit](https://cal.com/yourname)
